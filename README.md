@@ -1,7 +1,16 @@
 # ⚽ Euro Football Analytics
 
 <div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-Latest-green.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.0+-orange.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 **Comprehensive data analysis and visualization of Europe's Top 5 football leagues**
+
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Visualizations](#-visualizations) • [Contributing](#-contributing)
+
 </div>
 
 ---
@@ -44,23 +53,23 @@ Whether you're a data scientist, football analyst, fantasy football enthusiast, 
 
 ### Prerequisites
 ```bash
-python3 --version  # Ensure Python 3.8 or higher
+python --version  # Ensure Python 3.8 or higher
 ```
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/SoulaymaneBoulaich/euro-football-analytics.git
+git clone https://github.com/yourusername/euro-football-analytics.git
 cd euro-football-analytics
 ```
 
 ### Install Dependencies
 ```bash
-pip3 install pandas matplotlib seaborn numpy
+pip install pandas matplotlib seaborn numpy
 ```
 
 Or using requirements.txt:
 ```bash
-pip3 install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## 🚀 Usage
@@ -79,10 +88,10 @@ arsenal_stats = Team_Stats(df, 'Arsenal')
 print(arsenal_stats)
 
 # Visualize team performance
-plot_team_stats(your dataframe, 'Manchester City')
+plot_team_stats(df, 'Manchester City')
 
 # View top scorers across Europe
-top_scorers = plot_top_scorers_europe(your dataframe, top_n=20)
+top_scorers = plot_top_scorers_europe(df, top_n=20)
 ```
 
 ### Function Reference
@@ -217,10 +226,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-**Your Soulaymane Boulaich**
-- GitHub: https://github.com/SoulaymaneBoulaich
+**Your Name**
+- GitHub: [@yourusername](https://github.com/SoulaymaneBoulaich)
 - Email: soulaymaneboulaich@gmail.com
-- Linkedin: https://www.linkedin.com/in/soulaymane-boulaich-b08ba532b/
+- Twitter: [@yourlinkedin](https://www.linkedin.com/in/soulaymane-boulaich-b08ba532b/)
 
 ## ⭐ Show Your Support
 
@@ -230,7 +239,7 @@ Give a ⭐️ if this project helped you!
 
 <div align="center">
 
-**Made with ❤️ and ⚽ by Soulaymane Boulaich**
+**Made with ❤️ and ⚽ by SOulaymane**
 
 [⬆ Back to Top](#-euro-football-analytics)
 
