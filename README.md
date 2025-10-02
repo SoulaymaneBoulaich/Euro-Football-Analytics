@@ -9,7 +9,7 @@
 
 **Comprehensive data analysis and visualization of Europe's Top 5 football leagues**
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Visualizations](#-visualizations) • [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Contributing](#-contributing)
 
 </div>
 
@@ -122,22 +122,6 @@ Visualize top goal scorers across Europe's top 5 leagues.
 - `top_n`: Number of top scorers to display (default: 20)
 
 **Returns:** DataFrame of top scorers
-
-## 📊 Visualizations
-
-### Team Analysis Dashboard
-<div align="center">
-<img src="assets/team_analysis_example.png" alt="Team Analysis" width="800"/>
-</div>
-
-Features color-coded player rankings, KDE distributions, and comprehensive statistics.
-
-### Top Scorers Across Europe
-<div align="center">
-<img src="assets/top_scorers_example.png" alt="Top Scorers" width="800"/>
-</div>
-
-Beautiful 4-panel visualization showcasing Europe's elite goal scorers with league-specific branding.
 
 ## 📁 Project Structure
 
