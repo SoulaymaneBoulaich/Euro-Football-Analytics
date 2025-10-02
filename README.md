@@ -58,7 +58,7 @@ python --version  # Ensure Python 3.8 or higher
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/euro-football-analytics.git
+git clone https://github.com/SoulaymaneBoulaich/euro-football-analytics.git
 cd euro-football-analytics
 ```
 
@@ -138,9 +138,6 @@ euro-football-analytics/
 │
 ├── notebooks/
 │   └── analysis.ipynb
-│
-├── assets/
-│   └── (visualization examples)
 │
 ├── requirements.txt
 ├── README.md
