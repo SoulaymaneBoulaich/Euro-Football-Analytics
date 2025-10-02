@@ -207,10 +207,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/SoulaymaneBoulaich)
+** Soulaymane Boulaich**
+- GitHub: https://github.com/SoulaymaneBoulaich
 - Email: soulaymaneboulaich@gmail.com
-- Twitter: [@yourlinkedin](https://www.linkedin.com/in/soulaymane-boulaich-b08ba532b/)
+- Linkedin: https://www.linkedin.com/in/soulaymane-boulaich-b08ba532b
 
 ## ⭐ Show Your Support
 
@@ -220,7 +220,7 @@ Give a ⭐️ if this project helped you!
 
 <div align="center">
 
-**Made with ❤️ and ⚽ by SOulaymane**
+**Made with ❤️ and ⚽ by Soulaymane**
 
 [⬆ Back to Top](#-euro-football-analytics)
 
