@@ -195,10 +195,6 @@ Contributions are welcome! Here's how you can help:
 - Add historical season analysis
 - Develop predictive models
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - Data sourced from official league statistics
